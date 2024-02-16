@@ -28,14 +28,14 @@ header p {
 
 
 img{
-  width: 50px;
-  height: 50px;
+  width: 90px;
+  height: 90px;
 }
 
 .container {
   border-radius: 25px;
   margin: 50px;
-  padding: 20px 180px;
+  padding: 30px 180px;
   background-color: rgb(121, 155, 163);
   height: 200px;
   box-shadow: 0 2px 5px #eaeff1;
@@ -77,6 +77,14 @@ img{
   font-size: 15px;
   padding: 15px;
   /* background-color: rgba(135, 132, 122, 0.5); */
+}
+
+.circle-img {
+  border-radius: 50%;
+  border: 2px solid #000;
+  width: 100px;
+  height: 100px;
+  padding-bottom: -20px;
 }
 
 /* .circle-img {
