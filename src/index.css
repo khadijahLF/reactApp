@@ -52,6 +52,7 @@ img{
   display: grid;
   grid-template-columns: repeat(3, 1fr); /* Three columns */
   gap: 6px;
+  white-space: nowrap;
 }
 
 /* .circle-img {
@@ -61,14 +62,16 @@ img{
   height: 100px;
 } */
 
-.top {
-  /* height: 100px;
+/*.top {
+   height: 100px;
   width: 100%;
   position: absolute;
   top: 0;
-  left: 0; */
+  left: 0;
+ }
+  */
   /* display: flex; */
-}
+
 
 /* footer {
   position: fixed;

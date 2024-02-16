@@ -6,8 +6,8 @@ const data = [
     },
     {
     "id": 2,
-    "title": "LOL ",
-    "description": "Laugh out loud"
+    "title": "ROFL ",
+    "description": "Rolling on the floor laughing"
     },
     {
     "id": 3,
@@ -22,29 +22,29 @@ const data = [
 
     {
         "id": 5,
-        "title": "LOL ",
-        "description": "Laugh out loud"
+        "title": "IKR ",
+        "description": "I know right!"
         },
         {
         "id": 6,
-        "title": "OMG",
-        "description": "Oh my gosh"
+        "title": "TBH",
+        "description": "To be honest"
         },
         {
         "id": 7,
-        "title": "BRB",
-        "description": "Be right back"
+        "title": "BTW",
+        "description": "By the way"
         },
 
             {
     "id": 8,
-    "title": "LOL ",
-    "description": "Laugh out loud"
+    "title": "TTYL",
+    "description": "Talk to you later"
     },
     {
     "id": 9,
-    "title": "OMG",
-    "description": "Oh my gosh"
+    "title": "KMT",
+    "description": "Kiss my teech: Mtcheew!"
     },
     {
     "id": 10,
@@ -56,7 +56,14 @@ const data = [
     "id": 11,
     "title": "IYKYK",
     "description": "If you know you know"
+    },
+
+    {
+     "id": 12,
+     "title": "OYO",
+     "description": "On your own"
     }
+    
 ]
 
 export default data
