@@ -36,7 +36,7 @@ img{
 .container {
   border-radius: 25px;
   margin: 50px;
-  padding: 20px 200px;
+  padding: 20px 180px;
   background-color: cornsilk;
   height: 200px;
   box-shadow: 0 2px 5px #eaeff1;
@@ -46,7 +46,7 @@ img{
 .app-container {
   max-width: 1500px;
   margin: 0 auto;
-  margin-left: -580px;
+  margin-left: -650px;
 }
 
 .card-grid {
@@ -74,7 +74,7 @@ img{
 .search-bar button,
 .add-word-container input[type='text'] {
   font-size: 15px;
-  padding: 30px;
+  padding: 15px;
   /* background-color: rgba(135, 132, 122, 0.5); */
 }
 
